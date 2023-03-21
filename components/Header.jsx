@@ -6,12 +6,7 @@ import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
-import AppBar from '@mui/material/AppBar';
-import ToolBar from '@mui/material/ToolBar';
-import Select from '@mui/material/Select';
-import MenuItem from '@mui/material/MenuItem';
-import { grey } from '@mui/material/colors';
-import { orange } from '@mui/material/colors';
+
 import Navbar from './Navbar';
 
 const navItems = ['Home', 'About', 'Contact'];

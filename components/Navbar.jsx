@@ -1,17 +1,16 @@
 import React from 'react';
 import Image from 'next/image';
 import Box from '@mui/material/Box';
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
+
 import Grid from '@mui/material/Grid';
 import Button from '@mui/material/Button';
-import TextField from '@mui/material/TextField';
+
 import AppBar from '@mui/material/AppBar';
 import ToolBar from '@mui/material/ToolBar';
 import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 import { grey } from '@mui/material/colors';
-import { orange } from '@mui/material/colors';
+
 
 const navItems = ['Home', 'Movie', 'Event', 'Sport', 'About', 'Contact'];
 
